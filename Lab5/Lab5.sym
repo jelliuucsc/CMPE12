@@ -1,0 +1,33 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCII                   3051
+//	Bit0                    30C1
+//	Bit1                    30C3
+//	COUNTER                 3053
+//	Conv                    3022
+//	END                     3027
+//	FLAG                    3028
+//	FLAGTRUE                3038
+//	INT                     3014
+//	LF                      3050
+//	LOOP                    3045
+//	MASK                    3055
+//	MASKptrs                3054
+//	MSG                     300A
+//	MSG1                    3065
+//	MSG2                    3097
+//	MULT10                  302D
+//	Msk                     3041
+//	NEGATIVE                304F
+//	NEWLINE                 30BF
+//	PARTA                   303B
+//	PARTB                   303F
+//	Print1                  3032
+//	Print2                  3035
+//	Quit                    301F
+//	START                   3000
+//	Signed                  301B
+//	X                       3052
+//	flag                    304C
+//	int                     304E
+//	ten                     304D
